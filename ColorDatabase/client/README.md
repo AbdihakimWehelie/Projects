@@ -1,10 +1,28 @@
-# Getting Started with Create React App
+# Color database app
+
+# Live version (https://colorpalette-sage.vercel.app/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<a href="https://ibb.co/ScbMPgs"><img src="https://i.ibb.co/cw0Z19g/color-Data.png" alt="color-Data" border="0"></a><br /><a target='_blank' href='https://statewideinventory.org/infiniti-0-60-times'>
 
-In the project directory, you can run:
+## Technolgies used
+
+* HTML
+* CSS
+* Javascript
+* React
+* Node.JS
+* Express.JS
+* MySQL
+* Vercel Hosting
+
+## Functionality 
+
+The site retrives data from a database and displays the colors for users to copy onto their clipboard by clicking the copy icon. Users can also pick colors from the color picker and insert them onto the database where it will show up on the site. If a user wishes, they can pick a color on the database to remove.
+
+### Runinng the app
 
 ### `npm start`
 
