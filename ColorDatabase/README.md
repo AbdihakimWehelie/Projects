@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Functionality 
 
-The site retrives data from a database and displays the colors for users to copy onto their clipboard by clicking the copy icon. Users can also pick colors from the color picker and insert them onto the database where it will show up on the site. If a user wishes, they can pick a color on the database to remove.
+The site retrives data from a database and displays the colors for users to copy onto their clipboard by clicking the copy icon. Users can also pick colors from the color picker and insert them onto the database where it will show up on the site. If a user wishes, they can pick a color on the database to remove. Requires the server.js file to be run on localhost for functionality.
 
 ### Runinng the app
 
